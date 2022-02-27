@@ -1,0 +1,235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full and exact relation of the horrid murder committed upon the body of col. Rainsborough, the person that did it, and the cause thereof. Also the killing of Capt. Layton, and divers others: and a fight neere Pontefract; with the relieving of Scarborough, and a Pinnace taken there. Likewise the list of the names of some members of both Houses of Parliament, and chiefe officers of the army, against whom there is a designe to take away their lives. Certified by letters to both houses of Parliament. Viz. His Excellency the Lord Generall. The Lord Say and Seal. The Lord Wharton. Lieut. Gen. Cromwell. Mr. Challenor. Mr. Pury. Mr. Corbet. Major-Generall Skippon. Serjeant Wild. Colonell Hammond. Colonell Rich. Colonell Pride. Colonell Hewson, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84952</idno>
+            <idno type="STC">Wing F2278</idno>
+            <idno type="STC">Thomason E470_4</idno>
+            <idno type="STC">ESTC R205507</idno>
+            <idno type="EEBO-CITATION">99864866</idno>
+            <idno type="PROQUEST">99864866</idno>
+            <idno type="VID">162379</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84952)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162379)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E470[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full and exact relation of the horrid murder committed upon the body of col. Rainsborough, the person that did it, and the cause thereof. Also the killing of Capt. Layton, and divers others: and a fight neere Pontefract; with the relieving of Scarborough, and a Pinnace taken there. Likewise the list of the names of some members of both Houses of Parliament, and chiefe officers of the army, against whom there is a designe to take away their lives. Certified by letters to both houses of Parliament. Viz. His Excellency the Lord Generall. The Lord Say and Seal. The Lord Wharton. Lieut. Gen. Cromwell. Mr. Challenor. Mr. Pury. Mr. Corbet. Major-Generall Skippon. Serjeant Wild. Colonell Hammond. Colonell Rich. Colonell Pride. Colonell Hewson, &amp;c.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.A.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nou: 3d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rainborow, Thomas, d. 1648.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Pontefract (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162379:1" rendition="simple:additions"/>
+            <p>A full and exact RELATION OF THE Horrid murder committed upon the body of Col. Rainsborough, The perſons that did it, and the cauſe thereof.</p>
+            <p>Alſo the killing of Capt. <hi>Layton,</hi> and divers others: And a fight neere Pontefract; with the relieving of Scarborough, and a <hi>Pinnace</hi> taken there.</p>
+            <p>Likewiſe the Liſt of the names of ſome Members of both Houſes of Parliament, and chiefe Officers of the Army, againſt whom there is a Deſigne to take away their lives.</p>
+            <p>Certified by Letters to both Houſes of Parliament.</p>
+            <p>
+               <hi>VIZ.</hi>
+               <list>
+                  <item>His Excellency the Lord Generall.</item>
+                  <item>The Lord <hi>Say</hi> and <hi>Seal.</hi>
+                  </item>
+                  <item>The Lord <hi>Wharton.</hi>
+                  </item>
+                  <item>Lievt. Gen. <hi>Cromwell.</hi>
+                  </item>
+                  <item>Mr. <hi>Challenor.</hi>
+                  </item>
+                  <item>Mr. <hi>Pury.</hi>
+                  </item>
+                  <item>Mr. <hi>Corbet.</hi>
+                  </item>
+                  <item>Major-Generall <hi>Skippon.</hi>
+                  </item>
+                  <item>Serjeant <hi>Wild.</hi>
+                  </item>
+                  <item>Colonell <hi>Hammond.</hi>
+                  </item>
+                  <item>Colonell <hi>Rich.</hi>
+                  </item>
+                  <item>Colonell <hi>Pride.</hi>
+                  </item>
+                  <item>Colonell <hi>Hewſon,</hi> &amp;c.</item>
+               </list>
+            </p>
+            <p>
+               <add>nou: 3<hi rend="sup">d</hi>
+               </add> 
+               <hi>London:</hi> Printed for <hi>R. A.</hi> 1648.</p>
+            <pb facs="tcp:162379:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:162379:2"/>
+            <head>A full Relation of the killing of Co<g ref="char:EOLhyphen"/>lonell <hi>Rainsborough,</hi> Capt. <hi>Layton,</hi> and others: with a diſcovery of a further Deſigne to take away the lives of eighty other eminent Perſons; and a Liſt thereof.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>ACcording to your deſire by the laſt Poſt, I ſhall weekly communicate unto you ſuch Intelligence as is ſtirring in theſe parts; which at preſent may be truely repreſented thus. Sir <hi>Henry Cholmley,</hi> (with ſome Country Forces) for ſeverall weeks paſt hath laine a<g ref="char:EOLhyphen"/>gainſt Pontefract, to block up the enemy in the Caſtle, but wanting ſtrength to keep them in ſo little roome, the Pontefract-men did daily make ſeverall inroads upon the Country, tooke away their Cattle and o<g ref="char:EOLhyphen"/>ther goods, brought them without let to the Caſtle, and then exchanged them for ſuch other neceſſaries as they wanted, even with ſome of Sir <hi>Henry Cholmleyes</hi> owne men; and the Pontefract-men being ſtrong in Horſe, and very deſperate, have made a practice to fall upon our Guards, and into our Quarters; and have done much execution amongſt us: On Tueſday laſt they beat up our Quarters at a village ſix miles from Pontefract, killed Captain <hi>Layton,</hi> and two
+<pb n="2" facs="tcp:162379:3"/> others, wounded many, and carried away 6. priſoners: they have alſo taken Mr. <hi>Clayton,</hi> Steward to the Lord Generall, and carryed him wounded into the Caſtle; and many others, which I ſhall not here particularize: yet when thoſe in the Caſtle, and the others which keep the next Guard, are making their markets, they drink one to the other, ſaying, <hi>Here is to thee brother Round<g ref="char:EOLhyphen"/>head:</hi> and the other replies, <hi>I thank thee brother Cava<g ref="char:EOLhyphen"/>leer.</hi> Sir <hi>Arthur Ingram,</hi> who was lately taken by the Pontefract Forces, and impriſoned by them in the Caſtle, is gotten off; paying 1500. l. redemption: All this, and much more miſchief having been done, to the intolerable ſufferings and damage of the Country; it is now time to ſeek better to prevent it, and therefore we are ſtrengthening the Forces ſo as to compleat a Siege: Colonell <hi>Rainsborough</hi> for this purpoſe came into theſe parts by directions from his Excellency, but by reaſon of ſome difference between him and Sir <hi>Henry Cholmle<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> he took up his Quarters at Doncaſter, intending to ſtay there untill the matter were decided: in the mean while the Devill appearing ſtrong in his inſtruments, they conſult together by a private and baſe way of revenge, to eff<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct that by treachery which they could not otherwaies accompliſh; and as execu<g ref="char:EOLhyphen"/>tioners of this bloody deſigne, came three men in the habit of Gentlemen, from Pontefract Caſtle to Colo<g ref="char:EOLhyphen"/>nell <hi>Rainesboroughs</hi> owne Quarters early in the mor<g ref="char:EOLhyphen"/>ning, and pretended they had a Letter for him from Lievtenant-Generall <hi>Cromwell,</hi> whereupon they were no ſooner gotten in, but they in a ſordid manner ſtabbed him, dragged him to the chamber doore, cut
+<pb n="3" facs="tcp:162379:3"/> his throat, turn'd him down ſtaires, and eſcaped while thoſe of the houſe were either in bed, or ſo much ama<g ref="char:EOLhyphen"/>zed at this horrid murder, that they knew not what they did: And we heare that the malice of that party ſtayeth not at this, nor will be ſatisfied only with this new manner of murdering one that was faithfull to the Parliament, and a Member thereof, but have a further deſigne to take away the lives of at leaſt fourſcore o<g ref="char:EOLhyphen"/>ther eminent men, which have been active in the Par<g ref="char:EOLhyphen"/>liaments ſervice, for the good of their Country, which I pray God to diſcover and prevent, and unite the hearts of his People together, that the wicked One by ſowing his ſeed of diſſention may not gaine advantage againſt his choſen: And ſo I reſt,</p>
+            <closer>
+               <dateline>Doncaſter, <date>Octob. 30. 1648.</date>
+               </dateline>
+               <signed>Your affectionate friend, <hi>J. Barnard.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>
+               <hi>Another Letter concerning the horrid murther commit<g ref="char:EOLhyphen"/>ted upon the body of Colonell</hi> Rainesborough, <hi>with the laſt News from Scarborough.</hi>
+            </head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>I muſt now be a Harbinger to bring ſad newes to you and the reſt of our friends at Wapping, which I am ſure cannot but with me condole the loſſe of our old acquaintance Colonell <hi>Rainsborough,</hi> who after a long preſervation from the force of the Cannon and open
+<pb n="4" facs="tcp:162379:4"/> hoſtility of the common Enemy, was at the laſt moſt unfortunately murdered in his Chamber, it being done in a baſe and unworthy manner; Some ſay it was to be farther avenged for the death of Sir <hi>Charles Lucas,</hi> and Sir <hi>George Liſle,</hi> and thereby think to mitigate the fact; but I will aſſure you they will find it otherwise: for the whole Souldiery with us lay this buſineſſe much to heart, and although the loſſe of ſuch an inſtru<g ref="char:EOLhyphen"/>ment as he, cannot be ſmall: yet are we confident that we have this gain, that the hearts of all the well-affect<g ref="char:EOLhyphen"/>ed party in the Kingdome will be the more firme in conjunction with each other; I heare his wife is now in London, I pray God give her ſtrength to take it patiently, which is one generall uſe we are to make of ſuch trialls and afflictions. And as for thoſe that are ſuch implacable enemies to peace, and ſecretly thirſt after the blood of ſuch as would live quietly in the Land, we hope care will be taken to preſerve us from their malice, and to bring thoſe to condigne pu<g ref="char:EOLhyphen"/>niſhment which do juſtly deſerve it, that they may be a terrour to others from running into the like miſchiefs: The enemy in Pontefract Caſtle have about ſixſcore horſe well armed, which oftentimes ſally forth, and do great miſchiefe, and have (as ſome report) fitted them<g ref="char:EOLhyphen"/>ſelves with all things for a twelve moneths ſiege: the weak Leaguer by the new <hi>Militia</hi> of the Countrey hath ſo waſted the parts adjacent, that what with freequarter and large aſſeſſements, with the ſpoile made by the E<g ref="char:EOLhyphen"/>nemy, the Inhabitants are very much impoveriſhed; Here hath been levyed for many weekes together the value of 30000. l. <hi>per menſem,</hi> but we have better hopes
+<pb n="5" facs="tcp:162379:4"/> of thoſe which are now coming to doe the work, the Lievtenant Generalls forces being drawn neer: and tru<g ref="char:EOLhyphen"/>ly it is high time, for ſome further courſe to be taken not only againſt this Caſtle, but alſo againſt Scarbo<g ref="char:EOLhyphen"/>rough, for the Enemy there have made divers late ſallies forth, and have taken a <hi>Pinnace</hi> which was come into the Harbour with ſome Proviſions, whereby ſome relief hath been gotten by the Enemy; but another courſe is t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>king with them alſo. Thus with my beſt re<g ref="char:EOLhyphen"/>ſpect to your ſelfe, and all our friends, I remain</p>
+            <closer>
+               <dateline>Whetherby, <date>31. Octob. 1648.</date>
+               </dateline>
+               <signed>Your obliged friend, <hi>S. T.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="list_of_persons_to_be_killed">
+            <pb n="6" facs="tcp:162379:5"/>
+            <head>A Liſt of the names of the chiefe of the Members of both Houſes of Parlia<g ref="char:EOLhyphen"/>ment, and Officers of the Army, againſt whom the deſign is diſcovered to take a<g ref="char:EOLhyphen"/>way their lives.</head>
+            <list>
+               <item>His Excellency the Lord Generall.</item>
+               <item>
+                  <hi>The Lord</hi> Say, <hi>and</hi> Seale.</item>
+               <item>
+                  <hi>The Lord</hi> Wharton.</item>
+               <item>
+                  <hi>Lievtenant-Gen.</hi> Cromwell.</item>
+               <item>
+                  <hi>Mr.</hi> Challenor.</item>
+               <item>
+                  <hi>Mr.</hi> Pury.</item>
+               <item>
+                  <hi>Mr.</hi> Corbet.</item>
+               <item>
+                  <hi>Major-Gen.</hi> Skippon.</item>
+               <item>
+                  <hi>Serjeant</hi> Wild.</item>
+               <item>
+                  <hi>Colonell</hi> Hammond.</item>
+               <item>
+                  <hi>Colonell</hi> Rich.</item>
+               <item>
+                  <hi>Colonell</hi> Pride.</item>
+               <item>
+                  <hi>Colonell</hi> Hewſon.</item>
+               <item>
+                  <hi>Colonell</hi> Okey.</item>
+               <item>Major-General Lambert.</item>
+               <item>Major Salway,</item>
+            </list>
+            <p>and di<g ref="char:EOLhyphen"/>vers other Members of the Houſe, and Officers of the Army, whoſe names cannot be here inſerted.</p>
+            <p>Moved in Parliament, that a Regi<g ref="char:EOLhyphen"/>ment of Horſe and another of Foot come up, and be a Guard for the ſecurity of both Houſes.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
